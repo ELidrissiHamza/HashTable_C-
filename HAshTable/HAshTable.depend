@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1675601490 source:c:\users\dell\desktop\my_stuff\ilisi2\c++\code_c++\hashtable\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<utility>
+
